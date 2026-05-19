@@ -1,0 +1,45 @@
+ANAS KIOUAZ — CV
+
+CONTACT
+- 19 ans — 38400 Grenoble, France (Saint-Martin-d'Hères)
+- anas.kiouaz@gmail.com | Anas.Kiouaz@etu.univ-grenoble-alpes.fr
+- +33 6 52 78 37 56
+- GitHub : https://github.com/anaskiouaz
+- LinkedIn : https://www.linkedin.com/in/anas-kiouaz-060689387/
+
+OBJECTIF
+Alternance dès septembre 2026 en IA, data ou développement full-stack
+(TypeScript/React, Python/Java). Objectif long terme : Ingénieur Dev FinTech.
+
+COMPÉTENCES TECHNIQUES
+- Python (TensorFlow, Keras, NumPy, Pandas, OpenCV)
+- Java (POO, MVC, JavaFX, optimisation)
+- C++ (STL, tests unitaires)
+- Web : HTML5, CSS3, JavaScript, React, TypeScript, Node.js/Express
+- Bases de données : PostgreSQL, MySQL
+- Outils : Git, GitHub/GitLab, Jenkins, Linux
+
+PROJETS MAJEURS
+- IA Wirepas France — Automatisation B2B, détection et recommandation de prospects.
+- Classification automatique de dépêches — NLP, TF-IDF, KNN.
+- WEAVE — Plateforme d'aide aux seniors (Full-Stack).
+- ERP Grand Prix (SafeRace) — Application JavaFX/MVC.
+- Classification d'images par CNN — Deep Learning & Computer Vision.
+
+FORMATION
+- BUT Informatique (2024-2026) — IUT2 Grenoble (Université Grenoble Alpes).
+- Bac Scientifique, mention Bien — Lycée C.-G. Pravaz (Maths & NSI).
+
+EXPÉRIENCES
+- Stage IA — Wirepas France (Avril-Juin 2026).
+- Ouvrier chantier & peinture (2022-2023).
+- Stage ouvrier en pharmacie (2021).
+
+LANGUES
+- Français : natif
+- Anglais : B2
+- Arabe : B1
+- Italien : notions
+
+CENTRES D'INTÉRÊT
+Boxe compétition, callisthénie, échecs, randonnée, natation, ultimate.

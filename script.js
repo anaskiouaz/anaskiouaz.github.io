@@ -4,6 +4,7 @@ if (year) {
 }
 
 const heroTitle = document.querySelector(".hero-title");
+const GLITCH_DURATION = 1100;
 if (heroTitle) {
   if (!heroTitle.dataset.glitch) {
     heroTitle.dataset.glitch = heroTitle.textContent?.trim() ?? "";
@@ -13,5 +14,5 @@ if (heroTitle) {
   });
   setTimeout(() => {
     heroTitle.classList.remove("glitch");
-  }, 1600);
+  }, GLITCH_DURATION);
 }

@@ -40,6 +40,7 @@ body::after {
   inset: 0;
   pointer-events: none;
   z-index: -2;
+  will-change: transform;
 }
 
 body::before {
@@ -381,8 +382,8 @@ img {
 }
 
 .project-list {
-  --timeline-offset: 2.1rem;
   --timeline-padding: 1.6rem;
+  --timeline-offset: calc(var(--timeline-padding) + 0.5rem);
   display: grid;
   gap: 1.8rem;
   border-left: 1px solid var(--border);

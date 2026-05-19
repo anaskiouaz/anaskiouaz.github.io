@@ -1,14 +1,14 @@
 <svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="grad_stage1" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#f59e0b;stop-opacity:0.25" />
-      <stop offset="100%" style="stop-color:#10b981;stop-opacity:0.25" />
+      <stop offset="0%" style="stop-color:#58a6ff;stop-opacity:0.25" />
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.25" />
     </linearGradient>
   </defs>
-  <rect width="400" height="300" fill="#0a1220"/>
+  <rect width="400" height="300" fill="#0d1117"/>
   <rect width="400" height="300" fill="url(#grad_stage1)"/>
-  <circle cx="100" cy="100" r="35" fill="#f59e0b" opacity="0.2"/>
-  <polygon points="200,80 240,180 160,180" fill="#10b981" opacity="0.2"/>
-  <rect x="280" y="120" width="60" height="60" fill="#3b82f6" opacity="0.15" rx="8"/>
-  <text x="200" y="240" font-family="monospace" font-size="14" fill="#f59e0b" text-anchor="middle">Wirepas Stage</text>
+  <circle cx="100" cy="100" r="35" fill="#58a6ff" opacity="0.2"/>
+  <polygon points="200,80 240,180 160,180" fill="#58a6ff" opacity="0.2"/>
+  <rect x="280" y="120" width="60" height="60" fill="#79c0ff" opacity="0.15" rx="8"/>
+  <text x="200" y="240" font-family="monospace" font-size="14" fill="#58a6ff" text-anchor="middle">Wirepas Stage</text>
 </svg>

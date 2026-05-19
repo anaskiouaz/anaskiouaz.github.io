@@ -1,0 +1,14 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1b" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#79c0ff;stop-opacity:0.2" />
+      <stop offset="100%" style="stop-color:#58a6ff;stop-opacity:0.2" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="#0d1117"/>
+  <rect width="400" height="300" fill="url(#grad1b)"/>
+  <polygon points="200,60 300,150 200,240 100,150" fill="#79c0ff" opacity="0.2"/>
+  <circle cx="200" cy="150" r="30" fill="#58a6ff" opacity="0.4"/>
+  <text x="200" y="150" font-family="monospace" font-size="16" fill="#58a6ff" text-anchor="middle">PROJECT 01</text>
+  <text x="200" y="170" font-family="monospace" font-size="12" fill="#9ca3af" text-anchor="middle">Wirepas - Image 2/3</text>
+</svg>

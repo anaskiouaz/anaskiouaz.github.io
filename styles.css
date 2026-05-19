@@ -381,10 +381,12 @@ img {
 }
 
 .project-list {
+  --timeline-offset: 2.1rem;
+  --timeline-padding: 1.6rem;
   display: grid;
   gap: 1.8rem;
   border-left: 1px solid var(--border);
-  padding-left: 1.6rem;
+  padding-left: var(--timeline-padding);
 }
 
 .project-entry {
@@ -401,7 +403,7 @@ img {
 .project-entry::before {
   content: "";
   position: absolute;
-  left: -2.1rem;
+  left: calc(-1 * var(--timeline-offset));
   top: 1.6rem;
   width: 10px;
   height: 10px;

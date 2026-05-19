@@ -5,6 +5,9 @@ if (year) {
 
 const heroTitle = document.querySelector(".hero-title");
 if (heroTitle) {
+  if (!heroTitle.dataset.glitch) {
+    heroTitle.dataset.glitch = heroTitle.textContent?.trim() ?? "";
+  }
   requestAnimationFrame(() => {
     heroTitle.classList.add("glitch");
   });

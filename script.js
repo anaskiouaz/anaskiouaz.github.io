@@ -8,7 +8,7 @@ if (heroTitle) {
   requestAnimationFrame(() => {
     heroTitle.classList.add("glitch");
   });
-  window.setTimeout(() => {
+  setTimeout(() => {
     heroTitle.classList.remove("glitch");
   }, 1600);
 }

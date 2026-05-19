@@ -499,7 +499,8 @@ img {
 }
 
 .skill-item:hover .skill-detail,
-.skill-item:focus-visible .skill-detail {
+.skill-item:focus-visible .skill-detail,
+.skill-item:focus-within .skill-detail {
   opacity: 1;
   transform: translateY(0);
 }
@@ -624,6 +625,13 @@ img {
     animation-duration: 0.001ms !important;
     animation-iteration-count: 1 !important;
     transition-duration: 0.001ms !important;
+  }
+}
+
+@media (hover: none) {
+  .skill-detail {
+    opacity: 1;
+    transform: translateY(0);
   }
 }
 
